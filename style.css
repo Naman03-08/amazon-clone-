@@ -4,6 +4,7 @@
      height: 50px;
      display: flex;
     justify-content: space-evenly;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 
 #navbar2{
@@ -53,5 +54,5 @@
     margin-top: 2px;
     display: flex;
     width: 500px;
-    /* margin-bottom: 50px; */
+    
 }
