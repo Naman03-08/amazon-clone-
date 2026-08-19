@@ -1,0 +1,57 @@
+#navbar{
+     border: 2px solid #000;
+     border-radius: 10px;
+     height: 50px;
+     display: flex;
+    justify-content: space-evenly;
+    }
+
+#navbar2{
+     border: 2px solid #000;
+     border-radius: 10px;
+     height: 35px;
+     display: flex;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+#search{
+    width: 800px;
+    height: 25px;
+    
+}
+
+#all{
+    height: 30px;
+    margin: 00%;
+    margin-top: 10px;
+    
+}
+
+#search-bar{
+    margin: 0%;
+    height: 30px;   
+}
+
+#EN{
+    height: 30px;
+    margin-top: 10px;
+}
+
+#cart{
+    margin-top: 20px;
+    height: 100px;
+}
+
+#logo{
+    margin-top: 13px;
+    height: 35px;
+}
+
+#subnav{
+    margin-left: 0px;
+    margin-top: 2px;
+    display: flex;
+    width: 500px;
+    /* margin-bottom: 50px; */
+}
