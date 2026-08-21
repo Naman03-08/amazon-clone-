@@ -73,3 +73,14 @@
     text-decoration: none;
     color: black;
 }
+
+#main_page{
+    height: 700px;
+    width: 1500px;
+    border: black, 2px, solid;
+    margin-right: auto;
+    margin: auto;
+     background-image: url(img_1.jpg);
+     background-size: cover;
+     z-index: -1;
+}
