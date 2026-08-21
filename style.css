@@ -83,4 +83,13 @@
      background-image: url(img_1.jpg);
      background-size: cover;
      z-index: -1;
+     display: flex;
+     justify-content: space-evenly;
+}
+
+#main_page2{
+    height: 300px;
+    width: 250px;
+    border: 2px, white, solid;
+    
 }
