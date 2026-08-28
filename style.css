@@ -87,15 +87,26 @@
      justify-content: space-evenly;
 }
 
-#main_page2{
+/* #main_page2{
     height: 300px;
     width: 250px;
     border: 2px, white, solid;
-}
+} */
 
 .main_page{
-    height: 300px;
-    width: 250px;
-    border: 2px, white, solid;
-    
+    height: 600px;
+    width: 1500px;
+    border: 2px, rgb(0, 0, 0), solid;
+    margin: auto;
+    background-image: url(img_1.jpg);
+    background-size: cover;
+    z-index: -5;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_page_div{
+ border: black, 2px, solid;
+ height: 300px;
+ width: 300px;
 }
