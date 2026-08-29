@@ -118,3 +118,8 @@
     background-size:contain;
 }
 
+#kids_section{
+    background-image: url(kids_wear.jpg);
+    background-size: cover;
+
+}
