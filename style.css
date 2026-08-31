@@ -136,4 +136,5 @@
 
 #makup{
     background-image: url(makeup.jpg);
+    background-size: cover;
 }
